@@ -46,7 +46,7 @@
         "gn:id":3346051
     },
     "wof:country":"AO",
-    "wof:geomhash":"1610960e450ee8f3ec3b3db5f31cb19b",
+    "wof:geomhash":"b032d59558645ec135b91c29ae3da010",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     17.36667000000001,
     -13.53333
 ],
-  "geometry": {"coordinates":[17.36667000000001,-13.53333],"type":"Point"}
+  "geometry": {"coordinates":[17.36667,-13.53333],"type":"Point"}
 }

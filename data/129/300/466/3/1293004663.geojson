@@ -83,7 +83,7 @@
         "wk:page":"Caimbambo"
     },
     "wof:country":"AO",
-    "wof:geomhash":"904314d2208e0326152021606ff34a28",
+    "wof:geomhash":"2247c1c5205445c1c6d44485487bcaad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,5 +109,5 @@
     14.0,
     -13.01667
 ],
-  "geometry": {"coordinates":[14.0,-13.01667],"type":"Point"}
+  "geometry": {"coordinates":[14,-13.01667],"type":"Point"}
 }

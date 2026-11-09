@@ -280,7 +280,7 @@
     },
     "wof:country":"AO",
     "wof:created":1499131063,
-    "wof:geomhash":"0b0378c42dd606fd5620ddcee251300f",
+    "wof:geomhash":"d3728183d5b2f947f48659bcdbec9e91",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -310,5 +310,5 @@
     13.49001867539715,
     -14.91000852575934
 ],
-  "geometry": {"coordinates":[13.49001867539715,-14.91000852575934],"type":"Point"}
+  "geometry": {"coordinates":[13.490019,-14.910009],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Cafunfo"
     },
     "wof:country":"AO",
-    "wof:geomhash":"2bea4623d44e2218d9817876c066a981",
+    "wof:geomhash":"e5166344682c0381c3a66605e558bf5b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     17.99572000000001,
     -8.7672
 ],
-  "geometry": {"coordinates":[17.99572000000001,-8.7672],"type":"Point"}
+  "geometry": {"coordinates":[17.99572,-8.7672],"type":"Point"}
 }

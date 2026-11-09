@@ -44,7 +44,7 @@
         "wk:page":"Caianda"
     },
     "wof:country":"AO",
-    "wof:geomhash":"68c4d0e9123fb1e01ff90880de566ce7",
+    "wof:geomhash":"e4d0c1f2abde5b7b0ca79c25416982ff",
     "wof:hierarchy":[
         {
             "country_id":85632281,
@@ -67,5 +67,5 @@
     23.53333,
     -11.0
 ],
-  "geometry": {"coordinates":[23.53333,-11.0],"type":"Point"}
+  "geometry": {"coordinates":[23.53333,-11],"type":"Point"}
 }

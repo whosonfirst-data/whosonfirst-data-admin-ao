@@ -228,12 +228,6 @@
     "name:yue_x_preferred":[
         "\u5eab\u5167\u7d0d\u7701"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5e93\u5185\u7eb3\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5eab\u5167\u6e56"
-    ],
     "name:zho_x_preferred":[
         "\u5eab\u5167\u7d0d\u7701"
     ],
@@ -365,7 +359,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1695884936,
+    "wof:lastmodified":1794999722,
     "wof:name":"Cunene",
     "wof:parent_id":85632281,
     "wof:placetype":"region",

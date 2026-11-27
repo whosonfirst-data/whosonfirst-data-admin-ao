@@ -1,0 +1,78 @@
+{
+  "id": 9895094829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36642,-15.79664,20.36642,-15.79664",
+    "geom:latitude":-15.79664,
+    "geom:longitude":20.36642,
+    "gn:population":98419,
+    "iso:country":"AO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13645452 (Cuando Province): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645452"
+        },
+        {
+            "citation":"GeoNames division 13645452 (Cuando Province): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645452"
+        },
+        {
+            "citation":"GeoNames division 13645452 (Cuando Province): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645452"
+        },
+        {
+            "citation":"GeoNames division 13645452 (Cuando Province): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13645452"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cuando"
+    ],
+    "name:eng_x_variant":[
+        "Cuando Province"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645452
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7a1337c230e1087d7ad4f986da9afe8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "region_id":9895094829
+        }
+    ],
+    "wof:id":9895094829,
+    "wof:lastmodified":1795801255,
+    "wof:name":"Cuando",
+    "wof:parent_id":85632281,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36642,
+    -15.79664,
+    20.36642,
+    -15.79664
+],
+  "geometry": {"coordinates":[20.36642,-15.79664],"type":"Point"}
+}

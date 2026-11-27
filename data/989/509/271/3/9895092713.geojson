@@ -1,0 +1,75 @@
+{
+  "id": 9895092713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2897,-8.80523,13.2897,-8.80523",
+    "geom:latitude":-8.80523,
+    "geom:longitude":13.2897,
+    "gn:population":642050,
+    "iso:country":"AO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631351: name \"Hoji ya Henda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631351"
+        },
+        {
+            "citation":"GeoNames populated place 13631351: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631351"
+        },
+        {
+            "citation":"GeoNames populated place 13631351: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631351"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108799677 (Cazenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281,
+        85667669,
+        102191573,
+        1108799677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631351
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"59a1fc39ddafccd7c6880733e76d34e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799677,
+            "locality_id":9895092713,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":9895092713,
+    "wof:lastmodified":1795747194,
+    "wof:name":"Hoji ya Henda",
+    "wof:parent_id":1108799677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2897,
+    -8.80523,
+    13.2897,
+    -8.80523
+],
+  "geometry": {"coordinates":[13.2897,-8.80523],"type":"Point"}
+}

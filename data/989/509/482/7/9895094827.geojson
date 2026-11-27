@@ -1,0 +1,78 @@
+{
+  "id": 9895094827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.69655,-14.70247,17.69655,-14.70247",
+    "geom:latitude":-14.70247,
+    "geom:longitude":17.69655,
+    "gn:population":435583,
+    "iso:country":"AO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13645449 (Cubango Province): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645449"
+        },
+        {
+            "citation":"GeoNames division 13645449 (Cubango Province): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645449"
+        },
+        {
+            "citation":"GeoNames division 13645449 (Cubango Province): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645449"
+        },
+        {
+            "citation":"GeoNames division 13645449 (Cubango Province): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13645449"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cubango"
+    ],
+    "name:eng_x_variant":[
+        "Cubango Province"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645449
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"cb875b5194e162dc39ce8de7ef4b2ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "region_id":9895094827
+        }
+    ],
+    "wof:id":9895094827,
+    "wof:lastmodified":1795801255,
+    "wof:name":"Cubango",
+    "wof:parent_id":85632281,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.69655,
+    -14.70247,
+    17.69655,
+    -14.70247
+],
+  "geometry": {"coordinates":[17.69655,-14.70247],"type":"Point"}
+}

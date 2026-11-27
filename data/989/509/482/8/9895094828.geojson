@@ -1,0 +1,78 @@
+{
+  "id": 9895094828,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.89121,-11.90559,22.89121,-11.90559",
+    "geom:latitude":-11.90559,
+    "geom:longitude":22.89121,
+    "gn:population":318582,
+    "iso:country":"AO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13645451 (Moxico Leste Province): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645451"
+        },
+        {
+            "citation":"GeoNames division 13645451 (Moxico Leste Province): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645451"
+        },
+        {
+            "citation":"GeoNames division 13645451 (Moxico Leste Province): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645451"
+        },
+        {
+            "citation":"GeoNames division 13645451 (Moxico Leste Province): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13645451"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Moxico Leste"
+    ],
+    "name:eng_x_variant":[
+        "Moxico Leste Province"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645451
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"f988e2df1c934e6fe0c0799f5379a39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "region_id":9895094828
+        }
+    ],
+    "wof:id":9895094828,
+    "wof:lastmodified":1795801255,
+    "wof:name":"Moxico Leste",
+    "wof:parent_id":85632281,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.89121,
+    -11.90559,
+    22.89121,
+    -11.90559
+],
+  "geometry": {"coordinates":[22.89121,-11.90559],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895092712,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.0456,-9.06259,13.0456,-9.06259",
+    "geom:latitude":-9.06259,
+    "geom:longitude":13.0456,
+    "gn:population":323576,
+    "iso:country":"AO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631350: name \"Ramiros\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631350"
+        },
+        {
+            "citation":"GeoNames populated place 13631350: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631350"
+        },
+        {
+            "citation":"GeoNames populated place 13631350: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631350"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108799785 (Samba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281,
+        85667669,
+        102191573,
+        1108799785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631350
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"c6f1f77afdd6f49bf43d0ad92f16c8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799785,
+            "locality_id":9895092712,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":9895092712,
+    "wof:lastmodified":1795747194,
+    "wof:name":"Ramiros",
+    "wof:parent_id":1108799785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0456,
+    -9.06259,
+    13.0456,
+    -9.06259
+],
+  "geometry": {"coordinates":[13.0456,-9.06259],"type":"Point"}
+}

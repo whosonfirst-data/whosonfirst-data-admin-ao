@@ -1,0 +1,75 @@
+{
+  "id": 9895092706,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33384,-8.7815,13.33384,-8.7815",
+    "geom:latitude":-8.7815,
+    "geom:longitude":13.33384,
+    "gn:population":728205,
+    "iso:country":"AO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 7758790: name \"Kikolo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7758790"
+        },
+        {
+            "citation":"GeoNames populated place 7758790: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7758790"
+        },
+        {
+            "citation":"GeoNames populated place 7758790: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7758790"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108799945 (Cacuaco), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281,
+        85667669,
+        102191573,
+        1108799945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758790
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"38ef297bcf386c683ada6574e221513c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799945,
+            "locality_id":9895092706,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":9895092706,
+    "wof:lastmodified":1795747194,
+    "wof:name":"Kikolo",
+    "wof:parent_id":1108799945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33384,
+    -8.7815,
+    13.33384,
+    -8.7815
+],
+  "geometry": {"coordinates":[13.33384,-8.7815],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895092707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.3344,-8.86695,13.3344,-8.86695",
+    "geom:latitude":-8.86695,
+    "geom:longitude":13.3344,
+    "gn:population":882014,
+    "iso:country":"AO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8307074: name \"Mulenvos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8307074"
+        },
+        {
+            "citation":"GeoNames populated place 8307074: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8307074"
+        },
+        {
+            "citation":"GeoNames populated place 8307074: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8307074"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108799895 (Viana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281,
+        85667669,
+        102191573,
+        1108799895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307074
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"08d9f51a876c3440936c383659ea3553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799895,
+            "locality_id":9895092707,
+            "region_id":85667669
+        }
+    ],
+    "wof:id":9895092707,
+    "wof:lastmodified":1795747194,
+    "wof:name":"Mulenvos",
+    "wof:parent_id":1108799895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.3344,
+    -8.86695,
+    13.3344,
+    -8.86695
+],
+  "geometry": {"coordinates":[13.3344,-8.86695],"type":"Point"}
+}

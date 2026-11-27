@@ -1,0 +1,75 @@
+{
+  "id": 9895092709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.39123,-12.58997,13.39123,-12.58997",
+    "geom:latitude":-12.58997,
+    "geom:longitude":13.39123,
+    "gn:population":240075,
+    "iso:country":"AO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13607978: name \"Navegantes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13607978"
+        },
+        {
+            "citation":"GeoNames populated place 13607978: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13607978"
+        },
+        {
+            "citation":"GeoNames populated place 13607978: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13607978"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108799959 (Benguela), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632281,
+        85667691,
+        102191573,
+        1108799959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13607978
+    },
+    "wof:country":"AO",
+    "wof:geomhash":"7ca85f9aa0eaca89c37ed887432654dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799959,
+            "locality_id":9895092709,
+            "region_id":85667691
+        }
+    ],
+    "wof:id":9895092709,
+    "wof:lastmodified":1795747194,
+    "wof:name":"Navegantes",
+    "wof:parent_id":1108799959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ao",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.39123,
+    -12.58997,
+    13.39123,
+    -12.58997
+],
+  "geometry": {"coordinates":[13.39123,-12.58997],"type":"Point"}
+}
